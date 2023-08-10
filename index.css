@@ -1,0 +1,48 @@
+.Parent{
+background-image: url(./assits/BackGroun.jpg);
+width: 100%;
+height: 100vh;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.Parent1{
+  text-align: center;
+}
+
+.Parent2{
+  width: 800px;
+  margin: 70px auto;
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  border-top-left-radius: 6%;
+  border-top-right-radius: 6%;
+  border-bottom-left-radius: 6%;
+  border-bottom-right-radius:6%;
+ 
+}
+
+
+
+.Parent3{
+display: flex;
+gap: 50px;
+flex-wrap: wrap;
+justify-content: center;
+/* align-items: center; */
+
+
+}
+.Parent3 div{
+  width: 30%;
+ text-align: center;
+  background-color: darksalmon;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius:5%;
+}
