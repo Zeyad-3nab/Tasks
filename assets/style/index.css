@@ -1,0 +1,103 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 80%;
+    left: 10%;
+    top: 1rem;
+    border-radius: .3rem;
+    transition: 1s;
+    padding: 1rem;
+}
+ul {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+.Btns .Btns_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.toTop {
+    width: 3rem;
+    height: 3rem;
+    background: red;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    transform: scale(0);
+    cursor: pointer;
+    transition: 1s;
+}
+
+.item {
+    height: 100vh;
+}
+.item1 {background: red;
+}
+.item2 {background: teal;
+}
+.idNotFounded{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    padding-top: .4rem;
+    margin: auto;
+    margin-top: 1rem;
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: .5rem;
+    text-align: center;
+}
+.SearchTr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.InputIsLarge{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    padding-top: .4rem;
+    margin: 1rem auto 1rem auto;
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: .5rem;
+    text-align: center;
+}
+.SearchIdNotFounded{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    padding-top: .4rem;
+    margin: 1rem auto 1rem auto;
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: .5rem;
+    text-align: center;
+}
+.SearchTr{
+    display: none;
+    justify-content: space-around;
+    align-items: center;
+}
+.searchShow{
+    margin-bottom: 1rem !important;
+    background-color:white;
+    border-radius: .3rem;
+    margin: auto;
+}
+.editNowBtn{
+    display: none;
+}
+#todoEdit{
+    display: none;
+}

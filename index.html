@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/style/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/style/index.css">
+</head>
+
+<body class="bg-light py-5">
+    <div class="todo-list bg-body rounded-3 shadow w-50 m-auto d-flex align-items-center p-3 gap-3">
+        <input type="text" name="todo" id="todo" class="form-control flex-grow-1 w-75" placeholder="Add Task...">
+        <button class="btn btn-sm btn-info flex-grow-1 addBtn">Add
+            Task</button>
+    </div>
+    <div class="InputIsLarge rounded-3 shadow">
+        <p>Error Data</p>
+    </div>
+    <div class="searchInput bg-body rounded-3 shadow w-50 m-auto d-flex align-items-center p-3 gap-3 my-3">
+        <input type="number" name="" id="todoSearch" class="form-control" placeholder="Add Id ...">
+        <button class="btn btn-sm btn-info flex-grow-1 searchBtn">Search</button>
+    </div>
+    <div class="SearchIdNotFounded rounded-3 shadow">
+        <p>Not Founded</p>
+    </div>
+    <table class="searchShow searchShow-striped table-hover w-50 m-auto " >
+        <tbody>
+            <tr class="SearchTr">
+                <th class="searchValue">Task</th>
+                <th class="searchId">0</th>
+            </tr>
+        </tbody>
+    </table>
+    <div class="Btns bg-body rounded-3 shadow w-50 m-auto d-flex align-items-center p-3 gap-3">
+        <input type="number" name="" id="todoDelete_Edit" class="form-control" placeholder="Add Id...">
+        <input type="text" name="" id="todoEdit" class="form-control" placeholder="Update Task...">
+            <button class="btn btn-sm btn-primary editBtn">Edit</button>
+                <button class="btn btn-sm btn-danger deleteBtn">Delete</button>
+                <button class="btn btn-sm btn-info editNowBtn ">Update Now</button>
+    </div>
+    <div class="idNotFounded rounded-3 shadow">
+        <p>Not Founded</p>
+    </div>
+    <table class="table table-striped table-hover w-50 m-auto text-center">
+        <thead>
+            <tr>
+                <th>Name Task</th>
+                <th>Id</th>
+            </tr>
+        </thead>
+        <tbody id="showTodo">
+
+
+        </tbody>
+    </table>
+    <script src="assets/script/main.js"></script>
+</body>
+
+</html>
