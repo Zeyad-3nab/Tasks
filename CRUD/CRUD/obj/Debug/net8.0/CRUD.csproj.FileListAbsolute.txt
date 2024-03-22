@@ -1,0 +1,14 @@
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\bin\Debug\net8.0\CRUD.exe
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\bin\Debug\net8.0\CRUD.deps.json
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\bin\Debug\net8.0\CRUD.runtimeconfig.json
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\bin\Debug\net8.0\CRUD.dll
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\bin\Debug\net8.0\CRUD.pdb
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfoInputs.cache
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfo.cs
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\CRUD.csproj.CoreCompileInputs.cache
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\CRUD.dll
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\refint\CRUD.dll
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\CRUD.pdb
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
+D:\Back End .net\C#\CRUD op in oop\Code\CRUD\CRUD\obj\Debug\net8.0\ref\CRUD.dll
